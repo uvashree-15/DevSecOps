@@ -13,9 +13,10 @@
 
 - Update all the packages and then clone the code.
 - Clone your application's code repository onto the EC2 instance:
-     https://github.com/uvashree-15/DevSecOps.git
+  
     
     ```bash
+    https://github.com/uvashree-15/DevSecOps.git
     ```
     
 **Step 3: Install Docker and Run the App Using a Container:**
